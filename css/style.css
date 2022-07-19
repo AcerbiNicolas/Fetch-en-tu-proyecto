@@ -86,9 +86,9 @@ h4{
     position: fixed;
     width: 100%;
     text-align: center;
-    background-color: grey;
+    background-color: rgb(63, 63, 59);
 }
 .regFoo{
     width:100%;
-    background-color:red;
+    background-color:rgba(255, 0, 0, 0.685);
 }
